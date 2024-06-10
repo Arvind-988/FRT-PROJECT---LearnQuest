@@ -9,10 +9,10 @@ launched by microsoft, Future Skills Prime, github,EY
 
 **project demo vedio link - 
 
-**##AZURE TECHNOLOGIES USED FOR PROJECT**
+**## AZURE TECHNOLOGIES USED FOR PROJECT**
 
 -Azure static web app
--educational bot
+-QNA MAKER
 -Azure BLOB storage Account 
 
 ## About project 
