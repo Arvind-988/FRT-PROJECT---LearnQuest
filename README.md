@@ -31,7 +31,7 @@ Our goal is to bridge the gap between learners and quality education by offering
 - has collection of many webpage such as Home ,About us, contact , courses ,menu etc.
 - including on demand courses with interactive practices.
 
-**###screenshots -**
+## screenshots 
 
 ![Screenshot 2024-06-10 165124](https://github.com/Arvind-988/FRT-PROJECT---LearnQuest/assets/109091490/cd9a7f7c-0590-463a-92a9-0a3a9f994e7f)
 
@@ -46,7 +46,7 @@ Our goal is to bridge the gap between learners and quality education by offering
 ![Screenshot 2024-06-10 165441](https://github.com/Arvind-988/FRT-PROJECT---LearnQuest/assets/109091490/06938d90-1d46-49a7-be79-e1941b45dd00)
 
 
-**######TECH STACK **
+ # TECH STACK 
 - Azure (Hosting)
 - HTML
 - CSS
