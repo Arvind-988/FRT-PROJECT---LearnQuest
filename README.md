@@ -47,8 +47,8 @@ Our goal is to bridge the gap between learners and quality education by offering
 
 
 ##TECH STACK 
->Azure(hosting)
->HTML
->BOOTSTRAP 
->CSS
->JAVASCRIPT 
+- Azure (Hosting)
+- HTML
+- CSS
+- BOOTSTRAP
+- JAVASCRIPT
