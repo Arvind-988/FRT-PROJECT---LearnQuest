@@ -7,7 +7,7 @@ launched by microsoft, Future Skills Prime, github,EY
 
 **project link - https://proud-bush-0b76a6b00.5.azurestaticapps.net
 
-**project demo vedio link - 
+**project demo vedio link - https://drive.google.com/file/d/14oL3UwMVmauw-pW3cdIZiIYD-BflqVJw/view?usp=sharing
 
 **## AZURE TECHNOLOGIES USED FOR PROJECT**
 
