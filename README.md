@@ -13,7 +13,7 @@ launched by microsoft, Future Skills Prime, github,EY
 
 -Azure static web app
 -educational bot
--Azure storage Account 
+-Azure BLOB storage Account 
 
 ##About project - 
 
@@ -33,17 +33,19 @@ Our goal is to bridge the gap between learners and quality education by offering
 
 #screenshots -
 
-https://photos.app.goo.gl/FuwPNbhrRnJJBQy27
+![Screenshot 2024-06-10 165124](https://github.com/Arvind-988/FRT-PROJECT---LearnQuest/assets/109091490/cd9a7f7c-0590-463a-92a9-0a3a9f994e7f)
 
-https://photos.app.goo.gl/bd544puaxXmMSk4P9
+![Screenshot 2024-06-10 165148](https://github.com/Arvind-988/FRT-PROJECT---LearnQuest/assets/109091490/d7c0a414-bf63-49a6-a821-b28769bcab2e)
 
-https://photos.app.goo.gl/94oCoVpjeaqhzgQN9
+![Screenshot 2024-06-10 165223](https://github.com/Arvind-988/FRT-PROJECT---LearnQuest/assets/109091490/8e16ded3-8d9d-4741-a38a-e730d7575b84)
 
-https://photos.app.goo.gl/dNBS3bztLbsLRoMNA
+![Screenshot 2024-06-10 165303](https://github.com/Arvind-988/FRT-PROJECT---LearnQuest/assets/109091490/53b7d0f9-a5df-451d-9d01-7104b2abc34b)
 
-https://photos.app.goo.gl/6rF5yhDuTedNveTNA
+![Screenshot 2024-06-10 165331](https://github.com/Arvind-988/FRT-PROJECT---LearnQuest/assets/109091490/e2af62fa-b218-490c-9b6a-d519b08d38fb)
 
-##TECH STACK -
+![Screenshot 2024-06-10 165441](https://github.com/Arvind-988/FRT-PROJECT---LearnQuest/assets/109091490/06938d90-1d46-49a7-be79-e1941b45dd00)
+
+##TECH STACK 
 
 -HTML
 -BOOTSTRAP 
