@@ -1,1 +1,0 @@
-<iframe src='https://webchat.botframework.com/embed/chatproai-bot?s=VOTrOyFnoMY.2OXkjR78QH25NPqhPGXgLfdScwhPFAfG7iUAVDiUanw' style='min-width: 400px; width: 100%; min-height: 500px;'></iframe>
