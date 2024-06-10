@@ -45,9 +45,10 @@ Our goal is to bridge the gap between learners and quality education by offering
 
 ![Screenshot 2024-06-10 165441](https://github.com/Arvind-988/FRT-PROJECT---LearnQuest/assets/109091490/06938d90-1d46-49a7-be79-e1941b45dd00)
 
-##TECH STACK 
 
--HTML
--BOOTSTRAP 
--CSS
--JAVASCRIPT 
+##TECH STACK 
+Azure(hosting)
+HTML
+BOOTSTRAP 
+CSS
+JAVASCRIPT 
