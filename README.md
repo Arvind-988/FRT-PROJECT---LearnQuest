@@ -10,6 +10,8 @@ launched by microsoft, Future Skills Prime, github,EY
 **project demo vedio link - https://drive.google.com/file/d/14oL3UwMVmauw-pW3cdIZiIYD-BflqVJw/view?usp=sharing
 
 **## AZURE TECHNOLOGIES USED FOR PROJECT**
+
+
 -azure static webapp
 -azure blob storage
 -QNA maker
