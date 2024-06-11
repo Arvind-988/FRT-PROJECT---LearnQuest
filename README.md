@@ -15,6 +15,7 @@ azure static webapp
 
 azure blob storage
 
+# AZURE AI SERVICES
 QNA maker
 
 
