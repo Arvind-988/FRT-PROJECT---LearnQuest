@@ -9,11 +9,13 @@ launched by microsoft, Future Skills Prime, github,EY
 
 **project demo vedio link - https://drive.google.com/file/d/14oL3UwMVmauw-pW3cdIZiIYD-BflqVJw/view?usp=sharing
 
-# AZURE services
+# AZURE SERVICES
 
--azure static webapp
--azure blob storage
--QNA maker
+azure static webapp
+
+azure blob storage
+
+QNA maker
 
 
 ## About project 
