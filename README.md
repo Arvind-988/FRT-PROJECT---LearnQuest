@@ -11,12 +11,12 @@ launched by microsoft, Future Skills Prime, github,EY
 
 # AZURE SERVICES
 
-azure static webapp
+-azure static webapp
 
-azure blob storage
+-azure blob storage
 
 # AZURE AI SERVICES
-QNA maker
+-QNA maker
 
 
 ## About project 
