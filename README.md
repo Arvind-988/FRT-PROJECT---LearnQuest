@@ -48,6 +48,13 @@ Our goal is to bridge the gap between learners and quality education by offering
 
 ![Screenshot 2024-06-10 165441](https://github.com/Arvind-988/FRT-PROJECT---LearnQuest/assets/109091490/06938d90-1d46-49a7-be79-e1941b45dd00)
 
+![Screenshot 2024-06-10 172708](https://github.com/thakarvind/FRT-PROJECT---LearnQuest/assets/109091490/ef9eb710-d3fb-49b7-8467-1a247aa586d9)
+
+![Screenshot 2024-06-12 002249](https://github.com/thakarvind/FRT-PROJECT---LearnQuest/assets/109091490/5ac8e020-8f04-4a60-86f5-83296b3bfdb4)
+
+![Screenshot 2024-06-12 002155](https://github.com/thakarvind/FRT-PROJECT---LearnQuest/assets/109091490/839711c9-a9d5-47d6-926a-32afae8ac790)
+
+![Screenshot 2024-06-12 002313](https://github.com/thakarvind/FRT-PROJECT---LearnQuest/assets/109091490/365385c2-8be5-47e5-bb77-b36aace8284d)
 
  # TECH STACK 
 - Azure (Hosting)
