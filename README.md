@@ -28,7 +28,7 @@ Our goal is to bridge the gap between learners and quality education by offering
 
 ## FEATURES AND FUNCTIONALITIES
 
- -interactive and responsive website 
+- interactive and responsive website
 - has many graphical and visuals innovative effects
 - User-Friendly Interface
 - Adaptive Learning Technology
